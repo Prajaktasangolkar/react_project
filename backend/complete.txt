@@ -1,0 +1,15 @@
+u want to assemble all the file like module not like common js 
+in package.json
+
+ "type":"module",  
+
+ //axios-->
+ if data fail then what to do in web request and also how to get that request 
+
+
+ //cross-origin
+ url is different,port no is different--> 
+ (means 1 application work on 3000 and other at 6000)
+not all eveyone only alllow those who have access
+//whitelist will be done
+
